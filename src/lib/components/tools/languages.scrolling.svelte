@@ -7,5 +7,8 @@
 	<option value="en">EN</option>
 </select>
 
-<p>{lang}</p>
-<h1>{lang}</h1>
+{#if lang === "fr"}
+    <p>Bonjour, comment ça va ?</p>
+{:else if lang === "en"}
+    <p>Hello, how are you?</p>
+{/if}
