@@ -34,7 +34,7 @@
   }
 
   option {
-    font-family: "Inter ExtraBold";
+    font-family: "Inter";
     color: #AEAEAE;
   }
 

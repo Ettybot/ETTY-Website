@@ -18,7 +18,7 @@
 <style>
   
     h1 {
-        font-family: "Inter ExtraBold";
+        font-family: "Inter";
         text-align: center;
         font-size: 16px;
         color: #ffffff;
